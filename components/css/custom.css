@@ -1,0 +1,448 @@
+
+
+
+
+body {
+  padding-bottom: 0px;
+}
+
+.panel-transparent {
+        background: none;
+ border: 0;
+box-shadow: none;
+
+    }
+
+    .panel-transparent .panel-heading{
+         background: rgba(74, 75, 76, 0.8)!important;
+         border: 0;
+box-shadow: none;
+    }
+
+    .panel-transparent .panel-body{
+        background: rgba(74, 75, 76, 0.8)!important;
+       border: 0;
+box-shadow: none;
+    }
+
+html {
+    position: relative;
+    min-height: 100%;
+    padding-bottom: 0px;
+}
+
+.homepage-button {
+    color: white;
+    height: 150px;
+    margin: 5px;
+    text-align: center;
+}
+
+
+.homepage-button > h1{
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.homepage-button-row-1 {
+    background-color: #326D89;
+}
+
+.homepage-button-image {
+    background-image: url(../images/OpenGovernment.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    background-color: #333;
+    max-height: 300px;    
+
+}
+
+.homepage-button-row2 {
+    background-image: url(../images/OpenData.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    background-color: #333;
+    max-height: 300px;    
+}
+
+.homepage-button-row3 {
+    background-image: url(../images/AustinFinance.png);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+    background-color: #333;
+    max-height: 300px;    
+}
+
+
+.homepage-button:hover {
+  background-color: #7D9852;
+}
+
+.homepage-button-text {
+
+}
+
+.button-icon {
+  font-size: 5em;
+}
+
+.button-icon-small {
+  font-size: 3em;
+}
+
+.jumbotron {
+    background-image: url(../images/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    background-color: #333;
+    max-height: 300px;    
+}
+
+.jumbotron h2 {
+  text-shadow: 0px 0px 2px rgba(0,0,0,1);  
+  font-size: 2.5em;
+  font-weight: normal;
+}
+
+@media (max-width: 991px) {
+    .jumbotron {
+        background-image: url(../images/banner.jpg);
+    }
+}
+
+@media (min-width: 768px) {
+
+    .nav {
+        position: absolute;
+        bottom: 0;
+        border-width:0;
+        border: 0;
+        left: 70px;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .jumbotron {
+        background-image: url(../images/banner.jpg);
+    }
+}
+
+@media (min-width: 992px) {
+    .jumbotron {
+        background-image: url(../images/banner.jpg);
+    }
+}
+
+@media (min-width:1200px) {
+    .jumbotron {
+        background-image: url(../images/banner.jpg);
+    }
+
+}
+ 
+@media (min-width:1300px) {
+    .jumbotron {
+        background-image: url(../images/banner.jpg);
+    }
+
+    .push {
+        height: 210px;
+    }
+
+}
+
+@media (min-width:1400px) {
+    .jumbotron {
+        background-image: url(../images/banner.jpg);
+    }
+}
+
+.navbar {
+   line-height: 20px;
+    list-style-type: none;
+    background-color: #626C76;
+    border-width: 0;
+     border: 0;
+}
+
+.navbar li {
+    float: left;
+    }
+* {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;}
+       
+.navbar li a{
+display: block;
+background-color: inherit;
+border-radius: 0;
+font-size: 16px;
+padding: 16px;
+white-space: nowrap;
+    border-width: 0;
+     border: 0;
+}
+
+.opi {
+   background-color: rgba(0, 0, 0, .0);   
+}
+
+.navbar-brand {
+  background-color: rgba(255, 255, 255,.1);
+  color: #626C76;
+    border-width: 0;
+     border: 0;
+
+}
+
+.navbar-default .navbar-nav > li > a {
+  background-color: #626C76;
+    border-width: 0;
+     border: 0;
+  color: #fff;
+}
+
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover {
+    color: #fff;
+    background-color: rgba(0,0,0,.4);
+    border-width: 0;
+     border: 0;
+}
+
+.navbar-default .navbar-nav>li>a:focus,
+.navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    background-color: rgba(0,0,0,.4);
+    border-width: 0;
+     border: 0;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+    font-size: 1em;
+    font-weight: bold;
+    background-color: rgba(255, 255, 255, 0.8);
+    border-width: 0;
+     border: 0;
+}
+
+
+.navbar h2 {
+    
+    color: white;
+    font-size: 2.5em;
+}
+
+.dropdown-toggle {
+    font-size: 1em;
+}
+
+.footer-text > h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-img-container {
+    width: 60px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.footer {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 10px;
+    color: #fff;
+    text-align: center;
+    background-color: #43484E;
+    text-align: left;
+    box-sizing: border-box;
+    display: block;
+}
+
+.footer-img {
+    vertical-align: middle;
+    width: 60px;    
+}
+
+.footer-links > a {
+    color: #fff;
+    padding-right: 10px;
+
+}
+
+.fullscreen {
+    padding: 0px;
+    margin: 0px;
+}
+
+.coa-header {
+    font-family: sans-serif;
+    color: #43484E;
+    background-color: #fff;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+.coa-header h6 {
+    font-family: sans-serif;
+    text-align: center;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    padding: 0px;
+}
+
+.fa-info-circle {
+    cursor: default;
+}
+
+.disclaimer {
+    margin-top: 10px;
+    font-size: 12px;
+    font-style: 
+}
+
+.about p {
+    text-align: justify;
+}
+
+.popover {
+    z-index: 1300; /* A value higher than 1010 that solves the problem */
+}
+
+.dash-panel {
+    background-color: #efeff7;
+    border-radius: 10px;
+    border: 5px solid white;
+}
+
+ .dash-panel:hover {
+    background-color: #2c4b7c;
+    color: white;
+    cursor: pointer;
+}
+
+
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+ NAVIGATION
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
+  .dropdown:hover .dropbtn {
+    background-color: #B0B0B0;
+text-decoration: none !important;
+overflow: visible;
+
+}
+.navlinks{
+       line-height: 20px;
+    list-style-type: none;
+    overflow:hidden;
+    background-color: #626C76;
+    text-decoration: none !important;
+    display: block;
+    /* font-size: 14px; */ 
+}
+.navlinks li {
+    float: left;
+text-decoration: none !important;
+
+ }
+* {
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;}
+       
+.navlinks li a{
+display: block;
+background-color: inherit;
+border-radius: 0;
+font-size: 16px;
+padding: 16px;
+white-space: nowrap;
+
+}
+.dropdown-content a:hover {background-color: #f1f1f1}
+a.active {
+    color: white;
+position: absolute;
+    background-color:  #494748;
+}
+       .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 2;
+}
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    position: absolute;
+    text-align: left;
+}
+.dropdown:hover .dropdown-content {
+    display: block;
+position: absolute;
+
+}
+
+.wrappersa {
+        margin: 20px auto;
+        width: 450px;
+        height: 430px;
+        position: relative;
+    }
+    .ribbon-wrapper-red {
+        width: 85px;
+        height: 88px;
+        overflow: hidden;
+        position: absolute;
+        top: -3px;
+        right: -3px;
+    }
+    .ribbon-red {
+        font-size: 10px;
+        color: #fff;
+        text-transform: uppercase;
+        text-align: center;
+        font-weight: bold;
+        line-height: 20px;
+        transform: rotate(45deg);
+        width: 100px;
+        display: block;
+        background: #FF0000;
+        background: linear-gradient(#FF0000 0%, #FF0000 100%);
+        box-shadow: 0 3px 10px -5px rgba(0, 0, 0, 1);
+        position: absolute;
+        top: 19px;
+        right: -21px;
+    }
+    .ribbon-red:before, .ribbon-red:after {
+        content:'';
+        position: absolute;
+        left: 0px;
+        top: 100%;
+        z-index: -1;
+        border-left: 3px solid #FF0000;
+        border-right: 3px solid transparent;
+        border-bottom: 3px solid transparent;
+        border-top: 3px solid #FF0000;
+    }
+
+@media (max-width : 992px) {
+    .wrappersa {
+        margin: 20px auto;
+        width: 100%;
+        height: auto;
+        position: relative;
+    }
+}
