@@ -2,10 +2,10 @@
 permalink:        pretty
 
 # Setup
-title:            'Austin Transportation Open Data and Performance Hub'
-tagline:          'Open Data Projects at the Austin Transportation Department'
+title:            'Welcome to Performance Austin Texas'
+tagline:          'Look at all of our dashboards and performance metrics'
 description:      ''
-url:            http://transportation.austintexas.io
+url:            https://cityofaustin.github.io/PerformanceATX/
 
 author:
   name:           ''
@@ -15,4 +15,4 @@ author:
 version:          0.0.0
 
 github:
-  repo:           https://github.com/cityofaustin/transportation
+  repo:           https://github.com/cityofaustin/performanceatx
