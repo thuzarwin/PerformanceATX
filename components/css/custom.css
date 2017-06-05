@@ -49,7 +49,7 @@ html {
 }
 
 .homepage-button-image {
-    background-image: url({{site.baseurl}}/components/images/OpenGovernment.png);
+    background-image: url(PerformanceATX/components/images/OpenGovernment.png);
     background-size: 100%;
     background-repeat: no-repeat;
     color: #fff;
@@ -59,7 +59,7 @@ html {
 }
 
 .homepage-button-row2 {
-    background-image: url({{site.baseurl}}/components/images/OpenData.png);
+    background-image: url(PerformanceATX/components/images/OpenData.png);
     background-size: 100%;
     background-repeat: no-repeat;
     color: #fff;
@@ -68,7 +68,7 @@ html {
 }
 
 .homepage-button-row3 {
-    background-image: url({{site.baseurl}}/components/images/AustinFinance.png);
+    background-image: url(PerformanceATX/components/images/AustinFinance.PNG);
     background-size: 100%;
     background-repeat: no-repeat;
     color: #fff;
