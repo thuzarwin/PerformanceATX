@@ -59,7 +59,7 @@ html {
 }
 
 .homepage-button-row2 {
-    background-image: url("../components/images/OpenData.png");
+    background-image: url("../images/OpenData.PNG");
     background-size: 100%;
     background-repeat: no-repeat;
     color: #fff;
@@ -68,7 +68,7 @@ html {
 }
 
 .homepage-button-row3 {
-    background-image: url("../compontents/images/AustinFinance.PNG");
+    background-image: url("../images/AustinFinance.PNG");
     background-size: 100%;
     background-repeat: no-repeat;
     color: #fff;
