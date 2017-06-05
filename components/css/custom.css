@@ -49,7 +49,7 @@ html {
 }
 
 .homepage-button-image {
-    background-image: url(../images/banner.jpg);
+    background-image: url("PerformanceATX/components/images/OpenGovernment.PNG");
     background-size: 100%;
     background-repeat: no-repeat;
     color: #fff;
