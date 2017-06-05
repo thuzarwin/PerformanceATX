@@ -49,7 +49,7 @@ html {
 }
 
 .homepage-button-image {
-    background-image: url("https://cityofaustin.github.io/OpenGovernment.png");
+    background-image: url(../images/banner.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     color: #fff;
