@@ -49,7 +49,7 @@ html {
 }
 
 .homepage-button-image {
-    background-image: url(../images/OpenData.PNG);
+    background-image: url({{site.baseurl}}/components/images/OpenData.PNG);
     background-size: 100%;
     background-repeat: no-repeat;
     color: #fff;
