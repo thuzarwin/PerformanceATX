@@ -17,6 +17,9 @@ body {
     margin: 0
 }
 
+top-buffer { margin-top:20px; 
+}
+
 article,
 aside,
 details,
@@ -2459,7 +2462,10 @@ pre code {
         margin-left: 8.33333333%
     }
     .col-sm-offset-0 {
-        margin-left: 0
+        margin-left: 1.66666667%
+    }
+  .col-sm-offset-test {
+        margin-left: 0.66666667%
     }
 }
 
@@ -5677,6 +5683,12 @@ fieldset[disabled] .navbar-inverse .btn-link:focus,
 fieldset[disabled] .navbar-inverse .btn-link:hover {
     color: #444
 }
+
+
+
+
+
+
 
 .breadcrumb {
     padding: 8px 15px;
